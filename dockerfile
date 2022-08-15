@@ -31,5 +31,3 @@ RUN python3 -m pip install siphon --upgrade
 RUN python3 -m pip install pvlib 
 
 CMD [ "python3", "./PVForecast/PVForecasts.py"]
-
-netcdf-bin
