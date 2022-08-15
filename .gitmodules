@@ -1,0 +1,3 @@
+[submodule "PVForecast"]
+	path = PVForecast
+	url = https://github.com/StefaE/PVForecast.git
