@@ -1,0 +1,17 @@
+elementpath
+netCDF4
+protobuf
+bs4
+requests
+tables
+setuptools
+astral
+scipy
+isodate
+numpy
+pandas
+wheel
+wrapt
+influxdb
+yaml
+h5py
