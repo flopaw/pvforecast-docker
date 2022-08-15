@@ -4,6 +4,7 @@ WORKDIR /usr/app/src
 
 COPY ./PVForecast ./
 
+RUN apt update -y
 RUN apt install -y python3-pip 
 RUN apt install -y python3-elementpath 
 RUN apt install -y python3-protobuf
