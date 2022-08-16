@@ -10,8 +10,11 @@ scipy
 isodate
 numpy
 pandas
-wheel
 wrapt
 influxdb
-yaml
+pyyaml
 h5py
+pysolcast
+astral
+siphon
+pvlib
