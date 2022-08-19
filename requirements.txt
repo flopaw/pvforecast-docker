@@ -1,19 +1,19 @@
-elementpath
-netCDF4
-protobuf
-bs4
-requests
-tables
+# elementpath
 setuptools
-astral
-scipy
-isodate
 numpy
-pandas
-wrapt
+netCDF4
+# git+https://github.com/Unidata/netcdf4-python
+# protobuf
+bs4
+# requests
+tables
+scipy
+# isodate
+# pandas
+# wrapt
 influxdb
 pyyaml
-h5py
+# h5py
 pysolcast
 astral
 siphon
